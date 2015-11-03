@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isRequestMessages</key>
+	<false/>
+	<key>isRequestHandup</key>
+	<false/>
+	<key>isRequestVIPList</key>
+	<false/>
+	<key>isRequestAppUpdating</key>
+	<false/>
+	<key>isRequestAlogorithmUpdating</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isAvailable</key>
+	<false/>
+	<key>description</key>
+	<dict>
+		<key>en</key>
+		<string>becauseTinder调整了好友推荐算法, LikedMe暂时不可用，我们的工程师已经在处理该问题。请您等待一段时间后再试，谢谢！</string>
+		<key>zh</key>
+		<string>由于Tinder调整了好友推荐算法, LikedMe暂时不可用，我们的工程师已经在处理该问题。请您等待一段时间后再试，谢谢！</string>
+	</dict>
+	<key>redirectURL</key>
+	<string></string>
+</dict>
+</plist>
