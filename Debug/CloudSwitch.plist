@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>isRequestMessages</key>
-	<true/>
+	<false/>
 	<key>isRequestHandup</key>
-	<true/>
+	<false/>
 	<key>isRequestVIPList</key>
 	<false/>
 	<key>isRequestAppUpdating</key>
 	<true/>
 	<key>isRequestAlogorithmUpdating</key>
-	<true/>
+	<false/>
 </dict>
 </plist>

@@ -115,29 +115,9 @@ Using Spotlight in iOS 9 you can search your Tinder matches by name directly fro
 		<key>description</key>
 		<dict>
 			<key>en</key>
-			<string>1. 添加FAQ
-2. 更新文案翻译
-3. 更新opening messages
-4. 添加评分策略
-5. 优化交互动画
-6. 修改登录页面按钮样式
-7. 将所有message换成line 疯掉(╯&apos; - &apos;)╯︵ ┻━┻ 
-8. 添加切换底部tab的音效
-9. 修复bug
-
-***先点击升级，跳转到下载网页，然后返回手机home页面，删除现有的app，再返回网页安装***</string>
+			<string>上线版本</string>
 			<key>zh</key>
-			<string>1. 添加FAQ
-2. 更新文案翻译
-3. 更新opening messages
-4. 添加评分策略
-5. 优化交互动画
-6. 修改登录页面按钮样式
-7. 将所有message换成line 疯掉(╯&apos; - &apos;)╯︵ ┻━┻ 
-8. 添加切换底部tab的音效
-9. 修复bug
-
-***先点击升级，跳转到下载网页，然后返回手机home页面，删除现有的app，再返回网页安装***</string>
+			<string>上线版本</string>
 		</dict>
 		<key>redirectURL</key>
 		<string>http://fir.im/z4n8</string>
