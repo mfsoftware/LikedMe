@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>http://a5.mzstatic.com/us/r30/Purple7/v4/ff/61/5d/ff615df3-7a64-fce1-1136-6443a07f2655/icon175x175.png</string>
+		<key>appName</key>
+		<string>Facebook</string>
+		<key>installURLString</key>
+		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://a5.mzstatic.com/us/r30/Purple7/v4/ff/61/5d/ff615df3-7a64-fce1-1136-6443a07f2655/icon175x175.png</string>
+		<key>appName</key>
+		<string>Facebook</string>
+		<key>installURLString</key>
+		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://a5.mzstatic.com/us/r30/Purple7/v4/ff/61/5d/ff615df3-7a64-fce1-1136-6443a07f2655/icon175x175.png</string>
+		<key>appName</key>
+		<string>Facebook</string>
+		<key>installURLString</key>
+		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://a5.mzstatic.com/us/r30/Purple7/v4/ff/61/5d/ff615df3-7a64-fce1-1136-6443a07f2655/icon175x175.png</string>
+		<key>appName</key>
+		<string>Facebook</string>
+		<key>installURLString</key>
+		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+	</dict>
+</array>
+</plist>
