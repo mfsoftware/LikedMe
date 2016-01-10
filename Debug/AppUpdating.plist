@@ -32,5 +32,26 @@ Using Spotlight in iOS 9 you can search your Tinder matches by name directly fro
 		<key>redirectURL</key>
 		<string>http://fir.im/z4n8</string>
 	</dict>
+	<dict>
+		<key>version</key>
+		<string>1.1(110)</string>
+		<key>description</key>
+		<dict>
+			<key>en</key>
+			<string>-增加匹配动画
+-增加用户详情页快捷按钮
+-过滤已匹配用户
+-增加交叉推广
+- bug fixed</string>
+			<key>zh</key>
+			<string>-增加匹配动画
+-增加用户详情页快捷按钮
+-过滤已匹配用户
+-增加交叉推广
+- bug fixed</string>
+		</dict>
+		<key>redirectURL</key>
+		<string>http://fir.im/z4n8</string>
+	</dict>
 </array>
 </plist>
