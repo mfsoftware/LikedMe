@@ -9,6 +9,8 @@
 		<string>Facebook</string>
 		<key>installURLString</key>
 		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+		<key>isHidden</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>icon</key>
@@ -17,6 +19,8 @@
 		<string>Facebook</string>
 		<key>installURLString</key>
 		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+		<key>isHidden</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>icon</key>
@@ -25,6 +29,8 @@
 		<string>Facebook</string>
 		<key>installURLString</key>
 		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+		<key>isHidden</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>icon</key>
@@ -33,6 +39,8 @@
 		<string>Facebook</string>
 		<key>installURLString</key>
 		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
+		<key>isHidden</key>
+		<false/>
 	</dict>
 </array>
 </plist>
