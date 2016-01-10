@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>version</key>
-		<string>1.0(102)</string>
+		<string>1.0(146)</string>
 		<key>description</key>
 		<dict>
 			<key>en</key>
@@ -31,104 +31,6 @@ Using Spotlight in iOS 9 you can search your Tinder matches by name directly fro
 		</dict>
 		<key>redirectURL</key>
 		<string>http://fir.im/z4n8</string>
-		<key>isHidden</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>version</key>
-		<string>1.0(102)</string>
-		<key>description</key>
-		<dict>
-			<key>en</key>
-			<string>- test upgrade prompt Improved Recommendations &amp; Smart Profiles
-We’ve made a bunch of changes under the hood to improve the way that Tinder selects the profiles that are shown to you. We’ll even highlight for you when there is something particularly interesting about a person, including when you two have things in common.
-
-- Usernames &amp; Web Profiles
-Choose your username and share a link to your profile on the web or social media if you&apos;d like. Your username and web link will remain hidden; only you can see your web link, and only you can decide to share it. Sharing your profile allows more people to see it and can get you more matches.
-
-- iOS Updates
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.</string>
-			<key>zh</key>
-			<string>- 测试升级提醒逻辑
-We’ve made a bunch of changes under the hood to improve the way that Tinder selects the profiles that are shown to you. We’ll even highlight for you when there is something particularly interesting about a person, including when you two have things in common.
-
-- Usernames &amp; Web Profiles
-Choose your username and share a link to your profile on the web or social media if you&apos;d like. Your username and web link will remain hidden; only you can see your web link, and only you can decide to share it. Sharing your profile allows more people to see it and can get you more matches.
-
-- iOS Updates
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.
-
-</string>
-		</dict>
-		<key>redirectURL</key>
-		<string>http://fir.im/z4n8</string>
-		<key>isHidden</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>version</key>
-		<string>1.0(102)</string>
-		<key>description</key>
-		<dict>
-			<key>en</key>
-			<string>- test upgrade prompt Improved Recommendations &amp; Smart Profiles
-We’ve made a bunch of changes under the hood to improve the way that Tinder selects the profiles that are shown to you. We’ll even highlight for you when there is something particularly interesting about a person, including when you two have things in common.
-
-- Usernames &amp; Web Profiles
-Choose your username and share a link to your profile on the web or social media if you&apos;d like. Your username and web link will remain hidden; only you can see your web link, and only you can decide to share it. Sharing your profile allows more people to see it and can get you more matches.
-
-- iOS Updates
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.</string>
-			<key>zh</key>
-			<string>- 测试升级提醒逻辑
-We’ve made a bunch of changes under the hood to improve the way that Tinder selects the profiles that are shown to you. We’ll even highlight for you when there is something particularly interesting about a person, including when you two have things in common.
-
-- Usernames &amp; Web Profiles
-Choose your username and share a link to your profile on the web or social media if you&apos;d like. Your username and web link will remain hidden; only you can see your web link, and only you can decide to share it. Sharing your profile allows more people to see it and can get you more matches.
-
-- iOS Updates
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.
-
-</string>
-		</dict>
-		<key>redirectURL</key>
-		<string>http://fir.im/z4n8</string>
-		<key>isHidden</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>version</key>
-		<string>1.0(102)</string>
-		<key>description</key>
-		<dict>
-			<key>en</key>
-			<string>- test upgrade prompt Improved Recommendations &amp; Smart Profiles
-We’ve made a bunch of changes under the hood to improve the way that Tinder selects the profiles that are shown to you. We’ll even highlight for you when there is something particularly interesting about a person, including when you two have things in common.
-
-- Usernames &amp; Web Profiles
-Choose your username and share a link to your profile on the web or social media if you&apos;d like. Your username and web link will remain hidden; only you can see your web link, and only you can decide to share it. Sharing your profile allows more people to see it and can get you more matches.
-
-- iOS Updates
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.</string>
-			<key>zh</key>
-			<string>- 测试升级提醒逻辑
-We’ve made a bunch of changes under the hood to improve the way that Tinder selects the profiles that are shown to you. We’ll even highlight for you when there is something particularly interesting about a person, including when you two have things in common.
-
-- Usernames &amp; Web Profiles
-Choose your username and share a link to your profile on the web or social media if you&apos;d like. Your username and web link will remain hidden; only you can see your web link, and only you can decide to share it. Sharing your profile allows more people to see it and can get you more matches.
-
-- iOS Updates
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.
-Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.
-
-</string>
-		</dict>
-		<key>redirectURL</key>
-		<string>http://fir.im/z4n8</string>
-		<key>isHidden</key>
-		<false/>
 	</dict>
 </array>
 </plist>
