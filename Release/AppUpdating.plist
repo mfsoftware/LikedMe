@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>version</key>
-		<string>1.1(166)</string>
+		<string>1.0(102)</string>
 		<key>description</key>
 		<dict>
 			<key>en</key>
@@ -28,6 +28,96 @@ Using Spotlight in iOS 9 you can search your Tinder matches by name directly fro
 Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.Using Spotlight in iOS 9 you can search your Tinder matches by name directly from your home screen. 3D Touch (available on iPhone 6S and 6S Plus) allows you to easily message your matches from your home screen with Quick Actions, or use Peek and Pop to preview conversations from your match list.
 
 </string>
+		</dict>
+		<key>redirectURL</key>
+		<string>http://fir.im/z4n8</string>
+	</dict>
+	<dict>
+		<key>version</key>
+		<string>1.0(103)</string>
+		<key>description</key>
+		<dict>
+			<key>en</key>
+			<string>优化界面交互动画
+适配iPhone 4S
+后台短信调序
+修复程序bug
+移除让用户在没有匹配期间，不要使用Tinder的提示</string>
+			<key>zh</key>
+			<string>优化界面交互动画
+适配iPhone 4S
+后台短信调序
+修复程序bug
+移除让用户在没有匹配期间，不要使用Tinder的提示</string>
+		</dict>
+		<key>redirectURL</key>
+		<string>http://fir.im/z4n8</string>
+	</dict>
+	<dict>
+		<key>version</key>
+		<string>1.0(104)</string>
+		<key>description</key>
+		<dict>
+			<key>en</key>
+			<string>1. 提升推荐检测算法
+2. 优化程序稳定性
+3. 优化交互动画
+4. 增加隐私条款
+5. 用户详情界面支持文本复制
+6. 图片淡入加载</string>
+			<key>zh</key>
+			<string>1. 提升推荐检测算法
+2. 优化程序稳定性
+3. 优化交互动画
+4. 增加隐私条款
+5. 用户详情界面支持文本复制
+6. 图片淡入加载</string>
+		</dict>
+		<key>redirectURL</key>
+		<string>http://fir.im/z4n8</string>
+	</dict>
+	<dict>
+		<key>version</key>
+		<string>1.0(105)</string>
+		<key>description</key>
+		<dict>
+			<key>en</key>
+			<string>1. 添加FAQ
+2. 更新文案翻译
+3. 更新opening messages
+4. 添加评分策略
+5. 优化交互动画
+6. 修改登录页面按钮样式
+7. 将所有message换成line 疯掉(╯&apos; - &apos;)╯︵ ┻━┻ 
+8. 添加切换底部tab的音效
+9. 修复bug
+
+***先点击升级，跳转到下载网页，然后返回手机home页面，删除现有的app，再返回网页安装***</string>
+			<key>zh</key>
+			<string>1. 添加FAQ
+2. 更新文案翻译
+3. 更新opening messages
+4. 添加评分策略
+5. 优化交互动画
+6. 修改登录页面按钮样式
+7. 将所有message换成line 疯掉(╯&apos; - &apos;)╯︵ ┻━┻ 
+8. 添加切换底部tab的音效
+9. 修复bug
+
+***先点击升级，跳转到下载网页，然后返回手机home页面，删除现有的app，再返回网页安装***</string>
+		</dict>
+		<key>redirectURL</key>
+		<string>http://fir.im/z4n8</string>
+	</dict>
+	<dict>
+		<key>version</key>
+		<string>1.0(136)</string>
+		<key>description</key>
+		<dict>
+			<key>en</key>
+			<string>上线版本</string>
+			<key>zh</key>
+			<string>上线版本</string>
 		</dict>
 		<key>redirectURL</key>
 		<string>http://fir.im/z4n8</string>
