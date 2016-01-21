@@ -8,12 +8,12 @@
 		<key>description</key>
 		<dict>
 			<key>en</key>
-			<string>上线版本</string>
+			<string>Bug fixes and improvements.</string>
 			<key>zh</key>
-			<string>上线版本</string>
+			<string>Bug fixes and improvements.</string>
 		</dict>
 		<key>redirectURL</key>
-		<string>http://fir.im/z4n8</string>
+		<string>https://itunes.apple.com/app/id1039699450</string>
 	</dict>
 </array>
 </plist>
