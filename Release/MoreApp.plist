@@ -8,7 +8,7 @@
 		<key>appName</key>
 		<string>Tindbot</string>
 		<key>installURLString</key>
-		<string>https://itunes.apple.com/us/app/tindbot-for-tinder-dating/id1103758340?mt=8</string>
+		<string>itms-apps://itunes.apple.com/app/id1103758340</string>
 		<key>isHidden</key>
 		<false/>
 	</dict>
