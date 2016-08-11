@@ -9,7 +9,7 @@
 	<key>isRequestVIPList</key>
 	<false/>
 	<key>isRequestAppUpdating</key>
-	<true/>
+	<false/>
 	<key>isRequestAlogorithmUpdating</key>
 	<false/>
 	<key>isRequestMoreApp</key>
