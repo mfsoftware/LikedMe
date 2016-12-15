@@ -13,6 +13,6 @@
 	<key>isRequestAlogorithmUpdating</key>
 	<false/>
 	<key>isRequestMoreApp</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
