@@ -4,41 +4,11 @@
 <array>
 	<dict>
 		<key>icon</key>
-		<string>http://a5.mzstatic.com/us/r30/Purple7/v4/ff/61/5d/ff615df3-7a64-fce1-1136-6443a07f2655/icon175x175.png</string>
+		<string>http://is1.mzstatic.com/image/thumb/Purple71/v4/12/95/8b/12958b6e-e236-81c7-3bcf-50931ae16927/source/175x175bb.jpg</string>
 		<key>appName</key>
-		<string>Facebook</string>
+		<string>Change Location for Tinder</string>
 		<key>installURLString</key>
-		<string>https://itunes.apple.com/us/app/facebook/id284882215?mt=8</string>
-		<key>isHidden</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>icon</key>
-		<string>http://a3.mzstatic.com/us/r30/Purple2/v4/03/de/26/03de2647-3ee4-9187-80d8-5e6fddc4f4b3/icon175x175.jpeg</string>
-		<key>appName</key>
-		<string>WhatsApp</string>
-		<key>installURLString</key>
-		<string>https://itunes.apple.com/us/app/whatsapp-messenger/id310633997?mt=8</string>
-		<key>isHidden</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>icon</key>
-		<string>http://a1.mzstatic.com/us/r30/Purple/v4/cb/0e/f3/cb0ef324-9b07-3c40-e687-fe34c1908b44/icon175x175.jpeg</string>
-		<key>appName</key>
-		<string>Infinity Blade</string>
-		<key>installURLString</key>
-		<string>https://itunes.apple.com/us/app/infinity-blade/id387428400?mt=8</string>
-		<key>isHidden</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>icon</key>
-		<string>http://a2.mzstatic.com/us/r30/Purple6/v4/34/1d/03/341d0340-0f57-3db2-1243-8e76c4832065/icon175x175.jpeg</string>
-		<key>appName</key>
-		<string>Things</string>
-		<key>installURLString</key>
-		<string>https://itunes.apple.com/us/app/things/id284971781?mt=8</string>
+		<string>https://itunes.apple.com/us/app/fire-for-tinder-boost-match/id1103758340?mt=8</string>
 		<key>isHidden</key>
 		<false/>
 	</dict>
