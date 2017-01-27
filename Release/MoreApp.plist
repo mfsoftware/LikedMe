@@ -4,11 +4,11 @@
 <array>
 	<dict>
 		<key>icon</key>
-		<string>http://is1.mzstatic.com/image/thumb/Purple71/v4/12/95/8b/12958b6e-e236-81c7-3bcf-50931ae16927/source/175x175bb.jpg</string>
+		<string>http://is4.mzstatic.com/image/thumb/Purple41/v4/3c/01/2f/3c012f1e-4576-6620-ec6e-6596981fc27c/source/100x100bb.jpg</string>
 		<key>appName</key>
 		<string>Change Location</string>
 		<key>installURLString</key>
-		<string>https://itunes.apple.com/us/app/fire-for-tinder-boost-match/id1103758340?mt=8</string>
+		<string>itms-apps://itunes.apple.com/app/id1125408948</string>
 		<key>isHidden</key>
 		<false/>
 	</dict>
