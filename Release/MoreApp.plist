@@ -4,11 +4,12 @@
 <array>
 	<dict>
 		<key>icon</key>
-		<string>http://is4.mzstatic.com/image/thumb/Purple41/v4/3c/01/2f/3c012f1e-4576-6620-ec6e-6596981fc27c/source/100x100bb.jpg</string>
+		<string>http://is5.mzstatic.com/image/thumb/Purple111/v4/63/3e/92/633e9253-7910-97eb-c19a-538d01d0f040/source/100x100bb.jpg
+</string>
 		<key>appName</key>
-		<string>Change Location</string>
+		<string>YouTube Subscribers</string>
 		<key>installURLString</key>
-		<string>itms-apps://itunes.apple.com/app/id1125408948</string>
+		<string>itms-apps://itunes.apple.com/app/id1183359986</string>
 		<key>isHidden</key>
 		<false/>
 	</dict>
